@@ -37,7 +37,7 @@ O sistema de agendamento de serviços é uma aplicação web desenvolvida para g
 ## 3. Instalação e Configuração
 ### Pré-requisitos
 - Servidor web (Apache, Nginx).
-- PHP 7.4 ou superior.
+- PHP 7.4 ou superior. (utilizei a versão 5.6.31 e funcionou bem)
 - Banco de dados MySQL ou MariaDB.
 - Composer (para gerenciamento de dependências, se necessário).
 
